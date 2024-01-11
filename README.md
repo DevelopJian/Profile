@@ -1,4 +1,4 @@
-<div align="center">
+
   
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwm0307"/>
   
@@ -9,7 +9,7 @@
   
 ## Career
 - 개발자 커리어 넣기
-- Nurse(2019.05~2023.10)
+- Nurse
   - 대구가톨릭대학교병원 호흡기내과 PA (2022.06~2023.10)
   - 대구동산병원 코로나병동 (2021.02 ~ 2021.05)
   - 척탑병원 일반병동 (2020.6 ~ 2020.12)
