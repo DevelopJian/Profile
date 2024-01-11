@@ -15,8 +15,6 @@
   - 척탑병원 일반병동 (2020.6 ~ 2020.12)
   - 계명대학교 동산병원 내과계중환자실 (2019.05 ~ 2019.10)
 
-### What I Like
-
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jwm0307)](https://solved.ac/jwm0307)
