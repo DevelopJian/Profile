@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying Python
 - 🥇 Registered Nurse
 
-<img src="https://img.shields.io/badge/Python-31A8FFstyle=flat-square&logo=simpleicons_로고_이름&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-0019FF?style=flat-square&logo=simpleicons_3776AB&logoColor=white"/>
 
 ### Experience
 - 🌍 SSAFY 11기 (2024.01.02~)
