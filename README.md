@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
   <br>
+</div>
  
 ## 🛠 PROJECTS 🛠
 AI 기반 영화 추천 사이트
